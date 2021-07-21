@@ -166,4 +166,3 @@ Admin dashboard for accessing the various administrative features of the framewo
 Responsive design mobile view:
 
 ![Mobile View](https://github.com/oqtane/framework/blob/master/screenshots/screenshot7.png?raw=true "Mobile View")
-
